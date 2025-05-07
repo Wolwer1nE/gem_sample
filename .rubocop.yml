@@ -9,3 +9,6 @@ Style/StringLiteralsInInterpolation:
 
 Naming/MethodParameterName:
   Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
