@@ -74,6 +74,7 @@ DEPENDENCIES
   rake (~> 13.0)
   rubocop (~> 1.21)
   simplecov
+  simplecov_json_formatter
 
 BUNDLED WITH
    2.6.5

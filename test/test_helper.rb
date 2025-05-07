@@ -1,7 +1,10 @@
 # frozen_string_literal: true
 
 require "simplecov"
-SimpleCov.start
+require "simplecov_json_formatter"
+SimpleCov.start do
+  formatter SimpleCov::Formatter::JSONFormatter
+end
 SimpleCov.at_exit do
   SimpleCov.result.format!
   puts SimpleCov.result.files.map(&:filename)
