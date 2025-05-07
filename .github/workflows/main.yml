@@ -25,6 +25,8 @@ jobs:
           bundler-cache: true
       - name: Run the default task
         run: bundle exec rake
+      - name: Check coverage file
+        run: ls -la coverage/
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v5
         with:
