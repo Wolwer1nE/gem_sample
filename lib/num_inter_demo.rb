@@ -10,6 +10,8 @@ module NumInterDemo
   # @param n [Integer] number of steps
   # @block block [Proc] function to integrate
   def integrate(a, b, n)
+    return 0.0 if a == b
+
     step = (b - a) / n
     x = a
     sum = 0.0
