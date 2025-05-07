@@ -26,8 +26,6 @@ jobs:
       - name: Run the default task
         run: bundle exec rake
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v5
         with:
-          file: ./coverage/.resultset.json
-          flags: unittests
-          name: code-coverage
+          token: ${{ secrets.CODECOV_TOKEN }}
