@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "num_inter_demo/version"
-
+# This is a demo for numerical integration using the left rectangle method.
 module NumInterDemo
   class Error < StandardError; end
 

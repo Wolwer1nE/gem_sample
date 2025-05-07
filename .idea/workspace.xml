@@ -192,26 +192,12 @@
       <workItem from="1746181221702" duration="21000" />
       <workItem from="1746535883830" duration="3741000" />
       <workItem from="1746540731874" duration="1085000" />
-      <workItem from="1746598479396" duration="612000" />
+      <workItem from="1746598479396" duration="942000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/test/test_num_inter_demo.rb</url>
-          <line>9</line>
-          <properties myBlockOrdinal="-1">
-            <option name="block-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/num_inter_demo@TestNumInterDemo.rcov" NAME="TestNumInterDemo Coverage Results" MODIFIED="1746537217354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
