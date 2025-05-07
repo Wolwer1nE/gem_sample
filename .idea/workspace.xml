@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e45bed9-6186-4921-b0bd-4d260b74edaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/num_inter_demo.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/num_inter_demo/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_inter_demo.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sig/num_inter_demo.rbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_num_inter_demo.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +194,7 @@
       <workItem from="1746181221702" duration="21000" />
       <workItem from="1746535883830" duration="3741000" />
       <workItem from="1746540731874" duration="1085000" />
+      <workItem from="1746598479396" duration="301000" />
     </task>
     <servers />
   </component>
@@ -234,7 +218,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/num_inter_demo@TestNumInterDemo.rcov" NAME="TestNumInterDemo Coverage Results" MODIFIED="1746537217354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
     <SUITE FILE_PATH="coverage/num_inter_demo@test_it_does_something_useful.rcov" NAME="test_it_does_something_useful Coverage Results" MODIFIED="1746537351487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
-    <SUITE FILE_PATH="coverage/num_inter_demo@demo.rcov" NAME="demo Coverage Results" MODIFIED="1746540741192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
+    <SUITE FILE_PATH="coverage/num_inter_demo@demo.rcov" NAME="demo Coverage Results" MODIFIED="1746598512556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
     <SUITE FILE_PATH="coverage/num_inter_demo@test_that_fails_sometimes.rcov" NAME="test_that_fails_sometimes Coverage Results" MODIFIED="1746538354102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
     <SUITE FILE_PATH="coverage/num_inter_demo@test_that_it_has_a_version_number.rcov" NAME="test_that_it_has_a_version_number Coverage Results" MODIFIED="1746537375004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="num_inter_demo" />
   </component>

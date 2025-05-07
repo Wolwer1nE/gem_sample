@@ -8,6 +8,7 @@ GEM
   specs:
     ast (2.4.3)
     date (3.4.1)
+    docile (1.4.1)
     io-console (0.8.0)
     irb (1.15.2)
       pp (>= 0.6.0)
@@ -51,6 +52,12 @@ GEM
       parser (>= 3.3.7.2)
       prism (~> 1.4)
     ruby-progressbar (1.13.0)
+    simplecov (0.22.0)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+      simplecov_json_formatter (~> 0.1)
+    simplecov-html (0.13.1)
+    simplecov_json_formatter (0.1.4)
     stringio (3.1.7)
     unicode-display_width (3.1.4)
       unicode-emoji (~> 4.0, >= 4.0.4)
@@ -58,6 +65,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   irb
@@ -65,6 +73,7 @@ DEPENDENCIES
   num_inter_demo!
   rake (~> 13.0)
   rubocop (~> 1.21)
+  simplecov
 
 BUNDLED WITH
    2.6.5
