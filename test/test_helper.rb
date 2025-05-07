@@ -3,6 +3,7 @@
 require "simplecov"
 require "simplecov_json_formatter"
 SimpleCov.start do
+  track_files "lib/**/*.rb"
   formatter SimpleCov::Formatter::JSONFormatter
 end
 SimpleCov.at_exit do
