@@ -4,5 +4,5 @@ $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
 require "num_inter_demo"
 
 require "minitest/autorun"
-require 'simplecov'
+require "simplecov"
 SimpleCov.start
